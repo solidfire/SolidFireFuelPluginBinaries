@@ -13,14 +13,10 @@ Binaries for the releases prior to Fuel 8.0 may be found in the
    Once you have the Fuel master node installed copy the rpm to the fuel
    master node:
 
-   ::
-
       # scp cinder_solidfire-3.0-3.0.0-1.noarch.rpm \
           root@:<the_Fuel_Master_node_IP>:/tmp
 
 #### Log into the Fuel Master node and install the plugin:
-
-   ::
 
         # cd /tmp
         # fuel plugins --install /tmp/cinder_solidfire-3.0-3.0.0-1.noarch.rpm
