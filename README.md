@@ -24,5 +24,5 @@ Binaries for the releases prior to Fuel 8.0 may be found in the
         # fuel plugins list
         id | name             | version | package_version | releases
         ---+------------------+---------+-----------------+--------------------
-        1  | cinder_netapp    | 5.0.0   | 4.0.0           | ubuntu (mitaka-9.0)
+        1  | cinder_netapp    | 3.0.0   | 4.0.0           | ubuntu (mitaka-9.0)
 
